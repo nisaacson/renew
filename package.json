@@ -1,0 +1,13 @@
+{
+  "name": "renew",
+  "version": "0.0.1",
+  "description": "Execute an asyncronous function repeatedly until it completes or the max number of attempts are reached",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "",
+  "author": "Noah Isaacson",
+  "license": "BSD",
+  "gitHead": "c73a4bfa9b7218bb24034e0282c165209931a2e8"
+}
