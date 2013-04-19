@@ -9,5 +9,13 @@
   "repository": "",
   "author": "Noah Isaacson",
   "license": "BSD",
-  "gitHead": "c73a4bfa9b7218bb24034e0282c165209931a2e8"
+  "gitHead": "c73a4bfa9b7218bb24034e0282c165209931a2e8",
+  "dependencies": {
+    "async": "~0.2.7",
+    "eyespect": "~0.1.8"
+  },
+  "devDependencies": {
+    "mocha": "~1.9.0",
+    "should": "~1.2.2"
+  }
 }
